@@ -1,0 +1,23 @@
+html{background-color: #e6fffd;}
+
+h1{ 
+    background-color: #40f8ff;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Raleway', sans-serif;
+}
+
+div{ 
+    
+    width: 50%;
+    height: 500px;
+    border: solid #0c356a;
+    border-width: 20px 10px; 
+    margin-left: 25%;
+}
+
+p{
+    text-align: center;
+    background-color: #d5ffd0;
+}
